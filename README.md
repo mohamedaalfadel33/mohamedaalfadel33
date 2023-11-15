@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mohamed Alfadel
 
-**`Software Engineer (Web Developer) / Graphic Designer`**
+**`Software Engineer  / Graphic Designer`**
 
 front-end developer video editor and creator.
 
