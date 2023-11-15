@@ -33,6 +33,8 @@ YouTube channel "[MOHAMED DZN][youtube]".
 ### 📊 GitHub Stats:
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaalfadel33&show_icons=true&theme=gruvbox)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaalfadel33&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaalfadel33&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
