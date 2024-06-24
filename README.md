@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mohamed Alfadel
+# Mohamed Alfadel
 
 **`Software Engineer / Graphic Designer`**
 
