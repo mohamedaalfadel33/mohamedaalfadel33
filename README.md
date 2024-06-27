@@ -2,7 +2,8 @@
 
 **`Software Engineer / Graphic Designer`**
 
-front-end developer video editor and creator.
+front-end developer
+video editor and creator.
 
 # Socials:
 
