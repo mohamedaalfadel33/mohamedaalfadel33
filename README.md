@@ -3,7 +3,7 @@
 **`Software Engineer / Graphic Designer`**
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Engineer.+👋;+Active+learner/researcher.; spire+to+make+a+positive+impact.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Engineer. ;+Active+learner/researcher. ; spire+to+make+a+positive+impact.;" />
 </h1>
 
 front-end developer / video editor and graphic designer.
