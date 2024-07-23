@@ -21,8 +21,8 @@ front-end developer / video editor and graphic designer.
 <div>
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&perline=4" />
 </div>
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,supabase,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,github,figma,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,supabase,nextjs,netlify,npm" /><br>
 </div>
 
 <br/>
