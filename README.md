@@ -2,7 +2,9 @@
 
 **`Software Engineer / Graphic Designer`**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer.;Active+learner%2Fresearcher.;Aspire+to+make+a+positive+impact." alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..;Active+learner/researcher..;Aspire+to+make+a+positive+impact..;"></a>
+</p>
 
 front-end developer / video editor and graphic designer.
 
