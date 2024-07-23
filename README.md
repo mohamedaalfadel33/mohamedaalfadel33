@@ -40,9 +40,7 @@ front-end developer / video editor and graphic designer.
 
 ### 📊 GitHub Stats:
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaalfadel33&show_icons=true&theme=gruvbox)
-
-[![Mohamed'sGitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaalfadel33)](https://github.com/mohamedaalfadel33/github-readme-stats)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaalfadel33&show_icons=true&theme=gruvbox)](https://github.com/mohamedaalfadel33/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaalfadel33&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaalfadel33&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
