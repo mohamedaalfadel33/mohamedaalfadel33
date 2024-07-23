@@ -18,7 +18,7 @@ front-end developer / video editor and graphic designer.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&perline=4" />
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,supabase,nextjs" /><br>
 </div>
