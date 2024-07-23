@@ -3,9 +3,7 @@
 **`Software Engineer / Graphic Designer`**
 
 <p align="center">
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer.;Active+learner%2Fresearcher.;Aspire+to+make+a+positive+impact." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer.;Active+learner%2Fresearcher.;Aspire+to+make+a+positive+impact." alt="Typing SVG" /></a>
 </p>
 
 front-end developer / video editor and graphic designer.
