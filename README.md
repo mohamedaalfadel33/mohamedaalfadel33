@@ -7,6 +7,7 @@
 </p>
 
 
+
 front-end developer / video editor and graphic designer.
 
 # Socials:
