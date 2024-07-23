@@ -35,7 +35,6 @@ front-end developer / video editor and graphic designer.
 <img align="left" alt="Mongoose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg"/>
 <br />
 
-#
 
 #
 
