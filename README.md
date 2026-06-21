@@ -8,7 +8,7 @@
 
 
 
-front-end developer / video editor and graphic designer.
+front-end developer / video editor and motion designer.
 
 # Socials:
 
